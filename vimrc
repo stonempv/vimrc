@@ -35,7 +35,7 @@ filetype plugin indent on     " required!
 
 colorscheme molokai
 set number
-set listchars=tab:>-,trail:·,extends:>,precedes:<
+set listchars=tab:>―,trail:·,extends:>,precedes:<
 set list
 
 autocmd Filetype python setlocal expandtab tabstop=4 shiftwidth=4
