@@ -17,6 +17,7 @@ Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 Bundle 'tpope/vim-rails.git'
 Bundle 'tomasr/molokai'
 Bundle 'Valloric/YouCompleteMe'
+Bundle 'bling/vim-airline'
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
@@ -34,3 +35,5 @@ filetype plugin indent on     " required!
 
 colorscheme molokai
 set number
+set listchars=tab:>-,trail:·,extends:>,precedes:<
+set list
