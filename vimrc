@@ -32,3 +32,4 @@ filetype plugin indent on     " required!
 "
 
 colorscheme molokai
+set number
