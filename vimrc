@@ -18,6 +18,7 @@ Bundle 'tpope/vim-rails.git'
 Bundle 'tomasr/molokai'
 Bundle 'Valloric/YouCompleteMe'
 Bundle 'bling/vim-airline'
+Bundle 'kien/ctrlp.vim'
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
