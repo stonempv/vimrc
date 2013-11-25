@@ -35,8 +35,10 @@ filetype plugin indent on     " required!
 " NOTE: comments after Bundle commands are not allowed.
 "
 
+set t_Co=256
 colorscheme molokai
 set number
+
 set listchars=tab:>─,trail:·,extends:>,precedes:<
 set list
 
