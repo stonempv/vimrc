@@ -19,6 +19,7 @@ Bundle 'tomasr/molokai'
 Bundle 'davidhalter/jedi-vim'
 Bundle 'bling/vim-airline'
 Bundle 'kien/ctrlp.vim'
+Bundle 'scrooloose/syntastic'
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
