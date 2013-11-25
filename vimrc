@@ -20,6 +20,7 @@ Bundle 'davidhalter/jedi-vim'
 Bundle 'bling/vim-airline'
 Bundle 'kien/ctrlp.vim'
 Bundle 'scrooloose/syntastic'
+Bundle 'saltstack/salt-vim'
 " vim-scripts repos
 Bundle 'L9'
 Bundle 'FuzzyFinder'
