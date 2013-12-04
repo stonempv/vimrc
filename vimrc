@@ -39,6 +39,7 @@ filetype plugin indent on     " required!
 
 set t_Co=256
 colorscheme molokai
+syntax on
 set number
 
 set listchars=tab:>─,trail:·,extends:>,precedes:<
